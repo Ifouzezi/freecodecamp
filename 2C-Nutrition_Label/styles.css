@@ -47,6 +47,10 @@ p {
   border: 0;
 }
 
+.medium {
+  height: 5px;
+}
+
 .small-text {
   font-size: 0.85rem;
 }
@@ -71,4 +75,8 @@ p {
   margin: -7px -2px;
   font-size: 2.4em;
   font-weight: 700;
+}
+
+.right {
+  justify-content: flex-end;
 }
